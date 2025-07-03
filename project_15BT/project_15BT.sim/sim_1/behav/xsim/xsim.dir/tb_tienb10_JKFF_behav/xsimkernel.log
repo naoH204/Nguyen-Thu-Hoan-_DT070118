@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_tienb10_JKFF_behav/xsimk.exe -simmode gui -wdb tb_tienb10_JKFF_behav.wdb -simrunnum 0 -socket 49965
+Design successfully loaded
+Design Loading Memory Usage: 7140 KB (Peak: 7140 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 7576 KB (Peak: 7576 KB)
+Simulation CPU Usage: 31 ms

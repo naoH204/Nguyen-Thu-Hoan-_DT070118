@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/DTS/project_15BT/project_15BT.srcs/sources_1/new/tien7_TFF.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tien7_TFF'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/DTS/project_15BT/project_15BT.srcs/sources_1/new/tienb14_TFF.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tienb14_TFF'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/DTS/project_15BT/project_15BT.srcs/sim_1/new/tb_tienb14_TFF.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_tienb14_TFF'

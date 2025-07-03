@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_tien7_TFF_behav" "xil_defaultlib.tb_tien7_TFF" -log "elaborate.log" 
